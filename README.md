@@ -29,4 +29,4 @@ It will list all the devices in all the "homes" (though I am actually not sure i
 And the other amazing people who've shown interest in this project and even contributed to it. ❤️
 
 
-*****THIS WAS ORIGINALLY ON https://gitlab.com/Rjevski/eufy-device-id-and-local-key-grabber AND IS NO LONGER AVAILABLE THERE. This is a clone of htat repo.
+*****THIS WAS ORIGINALLY ON https://gitlab.com/Rjevski/eufy-device-id-and-local-key-grabber AND IS NO LONGER AVAILABLE THERE. This is a clone of that repo.
